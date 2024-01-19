@@ -9,7 +9,9 @@
 烟雾弹计时器  
 自瞄（左键）
 ****
-*如无效果，请自行更新offsets.hpp与client.dll.hpp*
+*如无效果，请自行更新offsets.hpp与client.dll.hpp*  
+https://github.com/a2x/cs2-dumper/blob/main/generated/offsets.hpp  
+https://github.com/a2x/cs2-dumper/blob/main/generated/client.dll.hpp
 ****
 ### 免责声明
 此项目仅供学习参考，切勿用于其他用途
