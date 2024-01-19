@@ -1,2 +1,7 @@
-# cs2_external_cheat
-CS2 external cheat
+cs2 外部作弊
+功能：
+	透视
+ 	武器透视
+	自瞄（左键）
+ 	烟雾弹计时器
+	无闪光
